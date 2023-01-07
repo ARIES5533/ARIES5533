@@ -8,4 +8,4 @@
 
 - 🌱 I currently use tools like,Terraform, Azure, AWS, Docker etc.
 
-## 📫 How to reach me:[TWITTER](https://medium.com/@olumokomoses94)
+## 📫 How to reach me:[TWITTER](https://medium.com/@olumokomoses94), [LINKEDIN](https://www.linkedin.com/in/moses-olumoko/?originalSubdomain=ng).
