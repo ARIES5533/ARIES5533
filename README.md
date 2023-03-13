@@ -1,6 +1,6 @@
 # HI, I'M OLUMOKO MOSES 👨‍💻👨‍💻
 
-- 🖐🖐 I'm a Cloud DevOps Engineer currently working on buiding reliable, agile and optimizable infrastructure.
+- 🖐🖐 I'm a Cloud DevOps Engineer.
 
 - ✍✍ I create contents on Cloud and DevOps, [You Can Check My Articles Out Here](https://medium.com/@olumokomoses94).
 
